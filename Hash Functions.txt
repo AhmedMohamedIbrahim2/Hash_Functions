@@ -1,0 +1,13 @@
+Hashing is the process of generating a value from a text or a list of numbers using a mathematical function known as a hash function.
+
+A Hash Function is a function that converts a given numeric or alphanumeric key to a small practical integer value. The mapped integer value is used as an index in the hash table. In simple terms, a hash function maps a significant number or string to a small integer that can be used as the index in the hash table.
+
+The pair is of the form (key, value), where for a given key, one can find a value using some kind of a “function” that maps keys to values. The key for a given object can be calculated using a function called a hash function. For example, given an array A, if i is the key, then we can find the value by simply looking up A[i].
+
+There are many hash functions that use numeric or alphanumeric keys. This article focuses on discussing different hash functions:
+
+Division Method.
+Mid Square Method.
+Folding Method.
+Multiplication Method.
+
